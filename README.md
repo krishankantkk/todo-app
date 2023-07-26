@@ -1,8 +1,8 @@
 # TodoApp - Your Interactive To-Do App
-TodoMaster is a simple yet powerful to-do application built with **HTML**,** CSS**, and **JavaScript**. It leverages the capabilities of local storage to provide a seamless and interactive task management experience for users.
+TodoMaster is a simple yet powerful to-do application built with **HTML**,**CSS**, and **JavaScript**. It leverages the capabilities of local storage to provide a seamless and interactive task management experience for users.
 
-##Features
-1.** Easy Task Management**: Add, edit, and delete tasks effortlessly with a user-friendly interface.
+# Features
+1.**Easy Task Management**: Add, edit, and delete tasks effortlessly with a user-friendly interface.
 
 2. **Real-Time Updates**: Experience instant task updates without the need for a page refresh, thanks to local storage integration.
 
